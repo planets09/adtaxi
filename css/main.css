@@ -5,7 +5,7 @@
 
 img {
 	position: relative;
-	z-index: -2;
+	z-index: -3;
 }
 
 .bannertext h2 {
@@ -54,7 +54,7 @@ img {
 
 #btn2 {
     background-color: transparent;
-    font-size: 10px;
+    font-size: 11px;
     font-family: 'Roboto', sans-serif;
     color: white;
     border-style: solid;

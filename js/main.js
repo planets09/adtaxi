@@ -5,7 +5,7 @@ var dateandTimes = [
 	},
 	{
 		day: 'Tuesday',
-		time: 'CLOSED'
+		time: 'CLOSED!'
 	},
 	{
 		day: 'Wednesday',
@@ -21,11 +21,11 @@ var dateandTimes = [
 	},
 	{
 		day: 'Saturday',
-		time: 'CLOSED'
+		time: 'CLOSED!'
 	},
 	{
 		day: 'Sunday',
-		time: 'CLOSED'
+		time: 'CLOSED!'
 	}
 ];
 
